@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://aiyang.com/"/>
-  <updated>2017-11-12T04:16:32.925Z</updated>
+  <updated>2017-11-12T06:02:38.661Z</updated>
   <id>http://aiyang.com/</id>
   
   <author>
@@ -21,16 +21,18 @@
     <link href="http://aiyang.com/2017/11/12/test/"/>
     <id>http://aiyang.com/2017/11/12/test/</id>
     <published>2017-11-12T04:01:16.000Z</published>
-    <updated>2017-11-12T04:16:32.925Z</updated>
+    <updated>2017-11-12T06:02:38.661Z</updated>
     
-    <content type="html"><![CDATA[<p>这是摘要吗？</p><a id="more"></a><p>使用cdn时要注意，不要去覆盖原来的文件，要用文件名+hash（就是要换个名字）来更新文件（防止cdn缓存策略），这样才不会出现有的用户资源更新了有的却没有。</p>]]></content>
+    <content type="html"><![CDATA[<p>摘要<br><a id="more"></a><br>使用cdn时要注意，不要去覆盖原来的文件，要用文件名+hash（就是要换个名字）来更新文件（防止cdn缓存策略），这样才不会出现有的用户资源更新了有的却没有。</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;这是摘要吗？&lt;/p&gt;
+      &lt;p&gt;摘要&lt;br&gt;
     
     </summary>
     
+    
+      <category term="开发总结" scheme="http://aiyang.com/tags/%E5%BC%80%E5%8F%91%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
