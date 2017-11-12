@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://aiyang.com/"/>
-  <updated>2017-11-12T04:02:22.477Z</updated>
+  <updated>2017-11-12T04:06:17.562Z</updated>
   <id>http://aiyang.com/</id>
   
   <author>
@@ -21,17 +21,13 @@
     <link href="http://aiyang.com/2017/11/12/test/"/>
     <id>http://aiyang.com/2017/11/12/test/</id>
     <published>2017-11-12T04:01:16.000Z</published>
-    <updated>2017-11-12T04:02:22.477Z</updated>
+    <updated>2017-11-12T04:06:17.562Z</updated>
     
-    <content type="html"><![CDATA[<p>aaa</p>]]></content>
+    <content type="html"><![CDATA[<p>aaa<br><a id="more"></a><br>aaa</p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;aaa&lt;/p&gt;
-
-      
+      &lt;p&gt;aaa&lt;br&gt;
     
     </summary>
     
