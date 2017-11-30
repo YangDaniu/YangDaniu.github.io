@@ -36,4 +36,24 @@
     
   </entry>
   
+  <entry>
+    <title>组件开发心得</title>
+    <link href="http://aiyang.com/2017/11/12/xinde/"/>
+    <id>http://aiyang.com/2017/11/12/xinde/</id>
+    <published>2017-11-12T04:01:16.000Z</published>
+    <updated>2017-11-30T13:04:57.169Z</updated>
+    
+    <content type="html"><![CDATA[<p>各自数据各自处理，交互可以统一规划<br><a id="more"></a><br>使用组件开发时，并不一定要严格按照组件的粒度去区分，组件主要用来形成模板和数据绑定。界面交互由于不确定性可能涉及的组件极多，可以在一个外层组件<br>进行统一的事件绑定。（各自数据各自处理，交互可以统一规划）</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;各自数据各自处理，交互可以统一规划&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="开发总结" scheme="http://aiyang.com/tags/%E5%BC%80%E5%8F%91%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
 </feed>
